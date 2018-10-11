@@ -8,3 +8,6 @@ arr.each do |num|
   # else
 # end
 end
+
+
+# Goal tomorrow is to try and pop things off a string and then use unshift to put them back together
